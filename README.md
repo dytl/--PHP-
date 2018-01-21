@@ -1,11 +1,11 @@
 创建型模式包含了：
 
-*工厂方法模式（ Factory Method ）
-*抽象工厂模式（ Abstract Factory ）
-*单例模式（ Singleton ）
-*建造者模式（ Builder ）
-*原型模式（ Prototype ）
-*结构型模式包含了：
+* 工厂方法模式（ Factory Method ）
+* 抽象工厂模式（ Abstract Factory ）
+* 单例模式（ Singleton ）
+* 建造者模式（ Builder ）
+* 原型模式（ Prototype ）
+* 结构型模式包含了：
 
 适配器模式（ Adapter ）
 装饰器模式（ Decorator ）
