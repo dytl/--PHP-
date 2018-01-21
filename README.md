@@ -5,8 +5,8 @@
 * 单例模式（ Singleton ）
 * 建造者模式（ Builder ）
 * 原型模式（ Prototype ）
- 结构型模式包含了：
-
+ 结构型模式包含了：    
+ 
 * 适配器模式（ Adapter ）
 * 装饰器模式（ Decorator ）
 * 代理模式（ Proxy ）
