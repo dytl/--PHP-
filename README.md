@@ -14,8 +14,7 @@
 * 桥接模式（ Bridge ）
 * 组合模式（ Composite ）
 * 享元模式（ Flyweight ）
-行为型模式包含了：
-
+行为型模式包含了：  
 
 * 策略模式（ Strategy ）
 * 模板方法模式（ Template Method ）
