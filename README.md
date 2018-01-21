@@ -16,6 +16,7 @@
 * 享元模式（ Flyweight ）
 行为型模式包含了：
 
+
 * 策略模式（ Strategy ）
 * 模板方法模式（ Template Method ）
 * 观察者模式（ Observer ）
